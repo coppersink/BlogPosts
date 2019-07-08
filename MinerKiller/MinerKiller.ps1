@@ -119,7 +119,7 @@ Function Killer {
     }
 }
 
-Function Vacciante() {
+Function Vaccinate() {
     # Create the mutex 20180419, ref: https://pastebin.com/e6XvHjYr
     $bCreated = $false
     $MutexName = "Global\20180419"
